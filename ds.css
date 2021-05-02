@@ -151,3 +151,19 @@ form:hover{
 #heart2{
     color: #11999e;
 }
+
+button{
+    color:white;
+    background-color: #11999E;
+    border-radius: 8px;
+    width: 130px;
+    height: 40px;
+    border: 1px  solid #11999E;
+    margin-bottom: 11px;
+    font-size: large;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.5;
+}
